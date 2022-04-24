@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adilton Costa Anna...</title>
+    <title>Adilton Cantos</title>
     <link>https://chironcodes.github.io/</link>
-    <description>Recent content on Adilton Costa Anna...</description>
+    <description>Recent content on Adilton Cantos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://chironcodes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://chironcodes.github.io/about/</link>
+      <pubDate>Sat, 23 Apr 2022 00:16:41 -0300</pubDate>
+      
+      <guid>https://chironcodes.github.io/about/</guid>
+      <description>&amp;hellip; a Computer Science student engaged in a platonic relationship with tech and its community.
+I&amp;rsquo;m currently learning about data engineering and the data-driver culture.
+Want to get in touch? Let me take you ⛺home then.</description>
+    </item>
+    
   </channel>
 </rss>
